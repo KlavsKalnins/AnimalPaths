@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e3651084388d34ebfb7cba617b36bf, type: 3}
+  m_Name: AnimalList
+  m_EditorClassIdentifier: 
+  currentActiveAnimal: 0
+  animals:
+  - animalType: 0
+    terrainType: 0
+    minigameType: 0
+    prefab: {fileID: 5297827020728420959, guid: 7c518d00dd399b048902f99206f6a75d, type: 3}
+    pawsCount: 0
+  - animalType: 1
+    terrainType: 0
+    minigameType: 0
+    prefab: {fileID: 3707350389687193537, guid: 99280de90788ea84cb00d3c6f011952e, type: 3}
+    pawsCount: 0
